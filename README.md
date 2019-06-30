@@ -10,3 +10,4 @@ Add additional code for head elements, etc.
 * [meta SEO article](https://www.advancedwebranking.com/blog/meta-tags-important-in-seo/)
 * [MOZ metatags](https://moz.com/blog/seo-meta-tags)
 * [Important metatags](https://www.ionos.com/digitalguide/websites/web-development/the-most-important-meta-tags-and-their-functions/)
+* [og tags](https://www.link-assistant.com/news/html-tags-for-seo.html)
