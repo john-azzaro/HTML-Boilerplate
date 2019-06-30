@@ -6,6 +6,11 @@ HTML Boilerplate is a growing collection of useful HTML Boilerplates with common
 ## To be added:
 Add additional code for head elements, etc.
 
+### robots
+```html
+  <meta name="robots" content="noarchive/noarchive/noindex/nofollow/noindex, nofollow">
+```
+
 ## Additional resources:
 * [meta SEO article](https://www.advancedwebranking.com/blog/meta-tags-important-in-seo/)
 * [MOZ metatags](https://moz.com/blog/seo-meta-tags)
