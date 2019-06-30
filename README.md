@@ -7,5 +7,5 @@ HTML Boilerplate is a growing collection of useful HTML Boilerplates with common
 Add additional code for head elements, etc.
 
 ## Additional resources:
-..* [MOZ metatags](https://moz.com/blog/seo-meta-tags)
-..* [Important metatags](https://www.ionos.com/digitalguide/websites/web-development/the-most-important-meta-tags-and-their-functions/)
+* [MOZ metatags](https://moz.com/blog/seo-meta-tags)
+* [Important metatags](https://www.ionos.com/digitalguide/websites/web-development/the-most-important-meta-tags-and-their-functions/)
